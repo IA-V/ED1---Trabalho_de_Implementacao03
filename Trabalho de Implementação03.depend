@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1631835636 source:c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho de implementação03\tree.c
+	"tree.h"
+	<stdlib.h>
+	<string.h>
+
+1631835774 c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho de implementação03\tree.h
+
+1631835952 source:c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho de implementação03\main.c
+	"tree.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
